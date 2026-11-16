@@ -1,6 +1,8 @@
 # Hi there 👋
 
-I am a Data professional, with experience in data analysis, data visualization, data engineering and data science. 
+I am a Data professional, with experience in data analysis, visualization, engineering and data science. 
+
+I am also learning AI engineering.
 
 Please see below projects that demonstrate my areas of knowledge.
 
@@ -8,6 +10,12 @@ Please see below projects that demonstrate my areas of knowledge.
 
 ## 
 
+The AI Engineer
+
+- [ ] Week 1
+  - [ ] Capstone - Gradient-Based Optimization
+
+<!--
 - [x] **SQL** | [SQLite](https://github.com/Marc-Lodge/SQLite)
 - [x] **Pure Python** | [Pokemon](https://github.com/Marc-Lodge/Pokemon_Stay) | [Beats](https://github.com/Marc-Lodge/Beats)
 - [x] **Exploratory Data Analysis** | [SATs](https://github.com/Marc-Lodge/SATs)
@@ -16,6 +24,9 @@ Please see below projects that demonstrate my areas of knowledge.
 - [x] **Natural Language Processing** | [Political Social Media](https://github.com/Marc-Lodge/political_social_media)
 - [x] **Time-Series Analysis** | [S&P500](https://github.com/Marc-Lodge/SPY)
 - [x] **Web Scraping** | [Indeed](https://github.com/Marc-Lodge/Indeed)
+-->
+
+<!--
 
 *Other Projects Coming Soon!*
 
@@ -28,6 +39,7 @@ Please see below projects that demonstrate my areas of knowledge.
 - [ ] ***Networks / Neural Networks***
 - [ ] ***Keras / PyTorch***
 - [ ] ***Data Engineering***
+-->
 
 <!--
 - **Tools** | SQL, Tableau, **Python**; *NumPy, Pandas, Seaborn, Matplotlib, Plotly, SciPy, Scikit-Learn, Statsmodels, Keras, PyTorch*
